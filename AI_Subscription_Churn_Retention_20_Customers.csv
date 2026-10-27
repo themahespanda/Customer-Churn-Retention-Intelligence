@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Age,Plan,Start_Date,Tenure_Months,Support_Tickets_90d,Complaints_90d,Login_Frequency_Score,Avg_Sessions_30d,Payment_Failures_90d,Monthly_Revenue,Discounts_Used_90d,Satisfaction_Score,Churned,Churn_Risk_Score,Risk_Segment,Potential_Causes,Personalized_Retention_Strategy,Recommended_Channel
+C001,Aarav Sharma,31,Premium,2025-02-14,12,2,1,92,8,1,2499,0,4.8,0,11.4,Low,Early engagement decline,Loyalty message + referral/upsell opportunity,In-app / Email
+C002,Diya Patel,27,Basic,2025-08-03,4,9,3,41,2,2,799,1,3.1,1,54.1,High,Low engagement; Service dissatisfaction,Priority service recovery + dedicated support callback + satisfaction follow-up,Human call / WhatsApp
+C003,Rohan Mehta,36,Premium,2024-11-21,18,1,0,96,12,0,2499,0,4.9,0,2.9,Low,Early engagement decline,Loyalty message + referral/upsell opportunity,In-app / Email
+C004,Ananya Rao,29,Standard,2025-05-10,9,5,2,63,5,1,1499,1,3.7,0,34,Medium,Early engagement decline,Personalized usage recommendations + proactive check-in,Email + in-app
+C005,Vikram Singh,42,Premium,2024-07-19,24,0,0,98,15,0,2499,0,4.9,0,1.1,Low,Early engagement decline,Loyalty message + referral/upsell opportunity,In-app / Email
+C006,Isha Nair,25,Basic,2025-09-01,3,11,4,32,1,3,799,2,2.4,1,70,Critical,Low engagement; Service dissatisfaction; Payment friction,Payment recovery outreach + update payment method + grace period,Human call / WhatsApp
+C007,Kabir Joshi,34,Standard,2025-01-08,13,4,1,58,4,2,1499,1,3.3,0,35.8,Medium,Early engagement decline,Personalized usage recommendations + proactive check-in,Email + in-app
+C008,Meera Iyer,39,Premium,2024-09-13,22,2,0,88,9,0,2499,0,4.6,0,8.1,Low,Early engagement decline,Loyalty message + referral/upsell opportunity,In-app / Email
+C009,Arjun Kapoor,30,Basic,2025-06-22,7,7,2,46,3,2,799,1,2.9,1,48.1,High,Low engagement; Low satisfaction,Re-engagement campaign + personalized content/value reminder + usage walkthrough,Human call / WhatsApp
+C010,Sara Khan,28,Standard,2025-03-18,11,3,1,71,6,1,1499,0,4,0,23,Low,Early engagement decline,Loyalty message + referral/upsell opportunity,In-app / Email
+C011,Neel Verma,45,Premium,2024-05-06,28,1,0,94,10,0,2499,0,4.8,0,4.1,Low,Early engagement decline,Loyalty message + referral/upsell opportunity,In-app / Email
+C012,Tanya Das,26,Basic,2025-07-11,6,10,3,37,2,3,799,2,2.6,1,63.2,Critical,Low engagement; Service dissatisfaction; Payment friction,Payment recovery outreach + update payment method + grace period,Human call / WhatsApp
+C013,Aditya Rao,37,Standard,2024-12-01,15,3,1,67,5,1,1499,0,3.8,0,25.2,Low,Early engagement decline,Loyalty message + referral/upsell opportunity,In-app / Email
+C014,Priya Shah,33,Premium,2025-04-27,10,6,2,54,4,2,2499,1,3.2,0,43,Medium,Early engagement decline,Personalized usage recommendations + proactive check-in,Email + in-app
+C015,Rahul Menon,41,Standard,2024-10-30,20,2,0,82,8,0,1499,0,4.4,0,10.9,Low,Early engagement decline,Loyalty message + referral/upsell opportunity,In-app / Email
+C016,Nisha Gupta,24,Basic,2025-10-02,2,12,5,25,1,4,799,3,2.1,1,82,Critical,Low engagement; Service dissatisfaction; Payment friction,Payment recovery outreach + update payment method + grace period,Human call / WhatsApp
+C017,Karan Malhotra,35,Premium,2025-01-25,13,5,2,61,5,2,2499,1,3,1,40.6,Medium,Early engagement decline,Personalized usage recommendations + proactive check-in,Email + in-app
+C018,Sneha Kulkarni,32,Standard,2025-02-02,13,2,0,78,7,1,1499,0,4.2,0,15.6,Low,Early engagement decline,Loyalty message + referral/upsell opportunity,In-app / Email
+C019,Manish Yadav,38,Basic,2025-05-29,8,8,3,43,2,2,799,2,2.8,1,55.4,High,Low engagement; Service dissatisfaction; Low satisfaction,Priority service recovery + dedicated support callback + satisfaction follow-up,Human call / WhatsApp
+C020,Pooja Reddy,29,Standard,2024-08-17,23,1,0,91,9,0,1499,0,4.7,0,5.4,Low,Early engagement decline,Loyalty message + referral/upsell opportunity,In-app / Email
